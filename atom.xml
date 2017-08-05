@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>老王的程序人生</title>
-  <subtitle>没有比脚更长的路，走过去，前面是个天！</subtitle>
+  <title>王志平的程序人生</title>
+  <subtitle>和老王聊聊技术人生那点事儿-Thinking In Tech-life!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
