@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>老王的程序人生</title>
-  <subtitle>一起聊聊技术人生那点事儿-Thinking In Tech-Life!</subtitle>
+  <subtitle>一起聊聊技术人生那点事儿(Thinking In Tech-Life)</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
