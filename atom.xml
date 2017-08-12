@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
-  <updated>2017-08-12T04:37:45.187Z</updated>
+  <updated>2017-08-12T04:55:50.655Z</updated>
   <id>https://wpneu.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html"/>
     <id>https://wpneu.github.io/2017/08/12/触摸屏驱动详解.html</id>
     <published>2017-08-12T10:20:34.000Z</published>
-    <updated>2017-08-12T04:37:45.187Z</updated>
+    <updated>2017-08-12T04:55:50.655Z</updated>
     
     <content type="html"><![CDATA[<h3 id="触摸屏驱动"><a href="#触摸屏驱动" class="headerlink" title="触摸屏驱动"></a>触摸屏驱动</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
     
@@ -30,7 +30,7 @@
     
     </summary>
     
-      <category term="精通Linux驱动" scheme="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
+      <category term="Linux驱动实战" scheme="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8%E5%AE%9E%E6%88%98/"/>
     
     
       <category term="驱动开发" scheme="https://wpneu.github.io/tags/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/"/>

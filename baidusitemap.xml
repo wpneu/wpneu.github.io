@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
+    <lastmod>2017-08-12T04:55:50.655Z</lastmod>
+    <data>
+        <display>
+        <title>触摸屏驱动详解</title>
+        <pubTime>2017-08-12T10:20:34.000Z</pubTime>
+        
+        <tag>驱动开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux驱动实战" url="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8%E5%AE%9E%E6%88%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F.html</loc>
     <lastmod>2017-08-12T04:46:51.406Z</lastmod>
     <data>
@@ -77,26 +97,6 @@
            
              
               <breadCrumb title="深入Linux内核" url="https://wpneu.github.io/categories/%E6%B7%B1%E5%85%A5Linux%E5%86%85%E6%A0%B8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
-    <lastmod>2017-08-12T04:37:45.187Z</lastmod>
-    <data>
-        <display>
-        <title>触摸屏驱动详解</title>
-        <pubTime>2017-08-12T10:20:34.000Z</pubTime>
-        
-        <tag>驱动开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="精通Linux驱动" url="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
           
         </display>
     </data>
