@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
-  <updated>2017-08-12T04:55:50.655Z</updated>
+  <updated>2017-08-12T05:05:50.995Z</updated>
   <id>https://wpneu.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html"/>
     <id>https://wpneu.github.io/2017/08/12/触摸屏驱动详解.html</id>
     <published>2017-08-12T10:20:34.000Z</published>
-    <updated>2017-08-12T04:55:50.655Z</updated>
+    <updated>2017-08-12T05:05:50.995Z</updated>
     
     <content type="html"><![CDATA[<h3 id="触摸屏驱动"><a href="#触摸屏驱动" class="headerlink" title="触摸屏驱动"></a>触摸屏驱动</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
     
@@ -60,28 +60,6 @@
   </entry>
   
   <entry>
-    <title>读书笔记:如何读一本书</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.html"/>
-    <id>https://wpneu.github.io/2017/08/12/如何阅读一本书.html</id>
-    <published>2017-08-12T03:15:34.000Z</published>
-    <updated>2017-08-12T04:18:48.431Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="读书笔记-如何读一本书"><a href="#读书笔记-如何读一本书" class="headerlink" title="读书笔记:如何读一本书"></a>读书笔记:如何读一本书</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;读书笔记-如何读一本书&quot;&gt;&lt;a href=&quot;#读书笔记-如何读一本书&quot; class=&quot;headerlink&quot; title=&quot;读书笔记:如何读一本书&quot;&gt;&lt;/a&gt;读书笔记:如何读一本书&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
-    
-    </summary>
-    
-      <category term="读书笔记" scheme="https://wpneu.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="读书笔记" scheme="https://wpneu.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
     <title>三年如何做到管理层</title>
     <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E5%A4%AA%E6%99%9A%E7%9A%84%E5%BC%80%E5%A7%8B.html"/>
     <id>https://wpneu.github.io/2017/08/12/人生永远没有太晚的开始.html</id>
@@ -100,6 +78,28 @@
     
     
       <category term="千面职场" scheme="https://wpneu.github.io/tags/%E5%8D%83%E9%9D%A2%E8%81%8C%E5%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读书笔记:如何读一本书</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.html"/>
+    <id>https://wpneu.github.io/2017/08/12/如何阅读一本书.html</id>
+    <published>2017-08-12T03:15:34.000Z</published>
+    <updated>2017-08-12T04:18:48.431Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="读书笔记-如何读一本书"><a href="#读书笔记-如何读一本书" class="headerlink" title="读书笔记:如何读一本书"></a>读书笔记:如何读一本书</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;读书笔记-如何读一本书&quot;&gt;&lt;a href=&quot;#读书笔记-如何读一本书&quot; class=&quot;headerlink&quot; title=&quot;读书笔记:如何读一本书&quot;&gt;&lt;/a&gt;读书笔记:如何读一本书&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://wpneu.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="读书笔记" scheme="https://wpneu.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -152,7 +152,7 @@
     <link href="https://wpneu.github.io/2017/08/12/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html"/>
     <id>https://wpneu.github.io/2017/08/12/KGDB调试Linux内核.html</id>
     <published>2017-08-12T02:35:34.000Z</published>
-    <updated>2017-08-12T04:42:37.671Z</updated>
+    <updated>2017-08-12T05:12:42.237Z</updated>
     
     <content type="html"><![CDATA[<h3 id="KGDB调试内核"><a href="#KGDB调试内核" class="headerlink" title="KGDB调试内核"></a>KGDB调试内核</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
     
@@ -162,7 +162,7 @@
     
     </summary>
     
-      <category term="内核调试及性能优化" scheme="https://wpneu.github.io/categories/%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+      <category term="Linux内核调试及性能优化" scheme="https://wpneu.github.io/categories/Linux%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
     
     
       <category term="性能优化" scheme="https://wpneu.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>

@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://wpneu.github.io/2017/08/12/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html</loc>
+    <lastmod>2017-08-12T05:12:42.237Z</lastmod>
+    <data>
+        <display>
+        <title>KGDB调试内核</title>
+        <pubTime>2017-08-12T02:35:34.000Z</pubTime>
+        
+        <tag>性能优化</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux内核调试及性能优化" url="https://wpneu.github.io/categories/Linux%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html</loc>
     <lastmod>2017-08-12T05:07:08.574Z</lastmod>
     <data>
@@ -45,7 +65,7 @@
     
   <url>
     <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
-    <lastmod>2017-08-12T04:55:50.655Z</lastmod>
+    <lastmod>2017-08-12T05:05:50.995Z</lastmod>
     <data>
         <display>
         <title>触摸屏驱动详解</title>
@@ -77,26 +97,6 @@
            
              
               <breadCrumb title="思想食堂" url="https://wpneu.github.io/categories/%E6%80%9D%E6%83%B3%E9%A3%9F%E5%A0%82/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html</loc>
-    <lastmod>2017-08-12T04:42:37.671Z</lastmod>
-    <data>
-        <display>
-        <title>KGDB调试内核</title>
-        <pubTime>2017-08-12T02:35:34.000Z</pubTime>
-        
-        <tag>性能优化</tag>
-         
-         
-           
-             
-              <breadCrumb title="内核调试及性能优化" url="https://wpneu.github.io/categories/%E5%86%85%E6%A0%B8%E8%B0%83%E8%AF%95%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
           
         </display>
     </data>
