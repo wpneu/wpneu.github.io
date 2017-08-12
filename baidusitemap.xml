@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html</loc>
-    <lastmod>2017-08-12T04:32:53.554Z</lastmod>
+    <lastmod>2017-08-12T04:35:13.699Z</lastmod>
     <data>
         <display>
         <title>ALSA驱动剖析</title>
@@ -16,7 +16,7 @@
          
            
              
-              <breadCrumb title="精通Linux驱动" url="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
+              <breadCrumb title="Linux驱动" url="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8/"/>
           
         </display>
     </data>
@@ -25,7 +25,7 @@
     
   <url>
     <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
-    <lastmod>2017-08-12T04:30:24.609Z</lastmod>
+    <lastmod>2017-08-12T04:34:54.532Z</lastmod>
     <data>
         <display>
         <title>触摸屏驱动详解</title>
@@ -36,7 +36,7 @@
          
            
              
-              <breadCrumb title="搞定Linux驱动" url="https://wpneu.github.io/categories/%E6%90%9E%E5%AE%9ALinux%E9%A9%B1%E5%8A%A8/"/>
+              <breadCrumb title="Linux驱动" url="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8/"/>
           
         </display>
     </data>
