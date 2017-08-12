@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html</loc>
+    <lastmod>2017-08-12T05:07:08.574Z</lastmod>
+    <data>
+        <display>
+        <title>内存管理</title>
+        <pubTime>2017-08-12T02:15:34.000Z</pubTime>
+        
+        <tag>内核开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux内核详解" url="https://wpneu.github.io/categories/Linux%E5%86%85%E6%A0%B8%E8%AF%A6%E8%A7%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html</loc>
+    <lastmod>2017-08-12T05:05:59.201Z</lastmod>
+    <data>
+        <display>
+        <title>ALSA驱动剖析</title>
+        <pubTime>2017-08-12T04:32:10.000Z</pubTime>
+        
+        <tag>驱动开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux驱动实战" url="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8%E5%AE%9E%E6%88%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
     <lastmod>2017-08-12T04:55:50.655Z</lastmod>
     <data>
@@ -37,46 +77,6 @@
            
              
               <breadCrumb title="思想食堂" url="https://wpneu.github.io/categories/%E6%80%9D%E6%83%B3%E9%A3%9F%E5%A0%82/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html</loc>
-    <lastmod>2017-08-12T04:46:08.009Z</lastmod>
-    <data>
-        <display>
-        <title>ALSA驱动剖析</title>
-        <pubTime>2017-08-12T04:32:10.000Z</pubTime>
-        
-        <tag>驱动开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="实战Linux驱动" url="https://wpneu.github.io/categories/%E5%AE%9E%E6%88%98Linux%E9%A9%B1%E5%8A%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html</loc>
-    <lastmod>2017-08-12T04:43:38.496Z</lastmod>
-    <data>
-        <display>
-        <title>内存管理</title>
-        <pubTime>2017-08-12T02:15:34.000Z</pubTime>
-        
-        <tag>内核开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="深入Linux内核" url="https://wpneu.github.io/categories/%E6%B7%B1%E5%85%A5Linux%E5%86%85%E6%A0%B8/"/>
           
         </display>
     </data>
