@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html</loc>
+    <lastmod>2017-08-12T04:40:17.163Z</lastmod>
+    <data>
+        <display>
+        <title>内存管理</title>
+        <pubTime>2017-08-12T02:15:34.000Z</pubTime>
+        
+        <tag>内核开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="深入Linux内核" url="https://wpneu.github.io/categories/%E6%B7%B1%E5%85%A5Linux%E5%86%85%E6%A0%B8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html</loc>
     <lastmod>2017-08-12T04:37:45.187Z</lastmod>
     <data>
@@ -97,26 +117,6 @@
            
              
               <breadCrumb title="Linux调试及性能优化" url="https://wpneu.github.io/categories/Linux%E8%B0%83%E8%AF%95%E5%8F%8A%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html</loc>
-    <lastmod>2017-08-12T04:26:29.575Z</lastmod>
-    <data>
-        <display>
-        <title>内存管理</title>
-        <pubTime>2017-08-12T02:15:34.000Z</pubTime>
-        
-        <tag>内核开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux内核子系统" url="https://wpneu.github.io/categories/Linux%E5%86%85%E6%A0%B8%E5%AD%90%E7%B3%BB%E7%BB%9F/"/>
           
         </display>
     </data>
