@@ -42,7 +42,7 @@
     <link href="https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html"/>
     <id>https://wpneu.github.io/2017/08/12/ALSA驱动剖析.html</id>
     <published>2017-08-12T04:32:10.000Z</published>
-    <updated>2017-08-12T04:37:30.064Z</updated>
+    <updated>2017-08-12T04:46:08.009Z</updated>
     
     <content type="html"><![CDATA[<h3 id="ALSA驱动剖析"><a href="#ALSA驱动剖析" class="headerlink" title="ALSA驱动剖析"></a>ALSA驱动剖析</h3><h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4>]]></content>
     
@@ -52,7 +52,7 @@
     
     </summary>
     
-      <category term="精通Linux驱动" scheme="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
+      <category term="实战Linux驱动" scheme="https://wpneu.github.io/categories/%E5%AE%9E%E6%88%98Linux%E9%A9%B1%E5%8A%A8/"/>
     
     
       <category term="驱动开发" scheme="https://wpneu.github.io/tags/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/"/>

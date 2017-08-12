@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html</loc>
+    <lastmod>2017-08-12T04:46:08.009Z</lastmod>
+    <data>
+        <display>
+        <title>ALSA驱动剖析</title>
+        <pubTime>2017-08-12T04:32:10.000Z</pubTime>
+        
+        <tag>驱动开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="实战Linux驱动" url="https://wpneu.github.io/categories/%E5%AE%9E%E6%88%98Linux%E9%A9%B1%E5%8A%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://wpneu.github.io/2017/08/12/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html</loc>
     <lastmod>2017-08-12T04:42:37.671Z</lastmod>
     <data>
@@ -50,26 +70,6 @@
         <display>
         <title>触摸屏驱动详解</title>
         <pubTime>2017-08-12T10:20:34.000Z</pubTime>
-        
-        <tag>驱动开发</tag>
-         
-         
-           
-             
-              <breadCrumb title="精通Linux驱动" url="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html</loc>
-    <lastmod>2017-08-12T04:37:30.064Z</lastmod>
-    <data>
-        <display>
-        <title>ALSA驱动剖析</title>
-        <pubTime>2017-08-12T04:32:10.000Z</pubTime>
         
         <tag>驱动开发</tag>
          
