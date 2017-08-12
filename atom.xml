@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
-  <updated>2017-08-12T04:34:54.532Z</updated>
+  <updated>2017-08-12T04:37:45.187Z</updated>
   <id>https://wpneu.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html"/>
     <id>https://wpneu.github.io/2017/08/12/触摸屏驱动详解.html</id>
     <published>2017-08-12T10:20:34.000Z</published>
-    <updated>2017-08-12T04:34:54.532Z</updated>
+    <updated>2017-08-12T04:37:45.187Z</updated>
     
     <content type="html"><![CDATA[<h3 id="触摸屏驱动"><a href="#触摸屏驱动" class="headerlink" title="触摸屏驱动"></a>触摸屏驱动</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
     
@@ -30,7 +30,7 @@
     
     </summary>
     
-      <category term="Linux驱动" scheme="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8/"/>
+      <category term="精通Linux驱动" scheme="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
     
     
       <category term="驱动开发" scheme="https://wpneu.github.io/tags/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
@@ -42,7 +42,7 @@
     <link href="https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html"/>
     <id>https://wpneu.github.io/2017/08/12/ALSA驱动剖析.html</id>
     <published>2017-08-12T04:32:10.000Z</published>
-    <updated>2017-08-12T04:35:13.699Z</updated>
+    <updated>2017-08-12T04:37:30.064Z</updated>
     
     <content type="html"><![CDATA[<h3 id="ALSA驱动剖析"><a href="#ALSA驱动剖析" class="headerlink" title="ALSA驱动剖析"></a>ALSA驱动剖析</h3><h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4>]]></content>
     
@@ -52,7 +52,7 @@
     
     </summary>
     
-      <category term="Linux驱动" scheme="https://wpneu.github.io/categories/Linux%E9%A9%B1%E5%8A%A8/"/>
+      <category term="精通Linux驱动" scheme="https://wpneu.github.io/categories/%E7%B2%BE%E9%80%9ALinux%E9%A9%B1%E5%8A%A8/"/>
     
     
       <category term="驱动开发" scheme="https://wpneu.github.io/tags/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
@@ -144,6 +144,28 @@
     
     
       <category term="狂飙英语" scheme="https://wpneu.github.io/tags/%E7%8B%82%E9%A3%99%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生永远没有太晚的开始</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/人生感悟.html</id>
+    <published>2017-08-12T03:15:34.000Z</published>
+    <updated>2017-08-12T04:17:02.285Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="人生永远没有太晚的开始"><a href="#人生永远没有太晚的开始" class="headerlink" title="人生永远没有太晚的开始"></a>人生永远没有太晚的开始</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;人生永远没有太晚的开始&quot;&gt;&lt;a href=&quot;#人生永远没有太晚的开始&quot; class=&quot;headerlink&quot; title=&quot;人生永远没有太晚的开始&quot;&gt;&lt;/a&gt;人生永远没有太晚的开始&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
+    
+    </summary>
+    
+      <category term="思想食堂" scheme="https://wpneu.github.io/categories/%E6%80%9D%E6%83%B3%E9%A3%9F%E5%A0%82/"/>
+    
+    
+      <category term="成长感悟" scheme="https://wpneu.github.io/tags/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
