@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>我的青春不打烊</title>
-  <subtitle>相逢论人生，笔墨品青春</subtitle>
+  <subtitle>煮酒论技术,笔墨品青春(Thinking In Tech-Life)</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
