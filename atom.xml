@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的青春不打烊</title>
-  <subtitle>煮酒论技术,笔墨品青春(Thinking In Tech-Life)</subtitle>
+  <title>我们的青春不打烊</title>
+  <subtitle>奔跑的蜗牛成长俱乐部(Thinking In Tech-Life)</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wpneu.github.io/"/>
@@ -9,7 +9,7 @@
   <id>https://wpneu.github.io/</id>
   
   <author>
-    <name>布衣寻者</name>
+    <name>奔跑的蜗牛</name>
     
   </author>
   
@@ -31,8 +31,8 @@
   
   <entry>
     <title>触摸屏驱动详解</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html"/>
-    <id>https://wpneu.github.io/2017/08/12/触摸屏驱动详解.html</id>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/%E8%A7%A6%E6%91%B8%E5%B1%8F%E9%A9%B1%E5%8A%A8%E8%AF%A6%E8%A7%A3.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/触摸屏驱动详解.html</id>
     <published>2017-08-12T10:20:34.000Z</published>
     <updated>2017-08-12T05:05:50.995Z</updated>
     
@@ -53,8 +53,8 @@
   
   <entry>
     <title>ALSA驱动剖析</title>
-    <link href="https://wpneu.github.io/2017/08/12/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html"/>
-    <id>https://wpneu.github.io/2017/08/12/ALSA驱动剖析.html</id>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/ALSA%E9%A9%B1%E5%8A%A8%E5%89%96%E6%9E%90.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/ALSA驱动剖析.html</id>
     <published>2017-08-12T04:32:10.000Z</published>
     <updated>2017-08-12T05:05:59.201Z</updated>
     
@@ -70,72 +70,6 @@
     
     
       <category term="驱动开发" scheme="https://wpneu.github.io/tags/%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人生永远没有太晚的开始</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F.html"/>
-    <id>https://wpneu.github.io/2017/08/12/人生/人生感悟.html</id>
-    <published>2017-08-12T03:15:34.000Z</published>
-    <updated>2017-08-12T04:17:02.285Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="人生永远没有太晚的开始"><a href="#人生永远没有太晚的开始" class="headerlink" title="人生永远没有太晚的开始"></a>人生永远没有太晚的开始</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;人生永远没有太晚的开始&quot;&gt;&lt;a href=&quot;#人生永远没有太晚的开始&quot; class=&quot;headerlink&quot; title=&quot;人生永远没有太晚的开始&quot;&gt;&lt;/a&gt;人生永远没有太晚的开始&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
-    
-    </summary>
-    
-      <category term="思想食堂" scheme="https://wpneu.github.io/categories/%E6%80%9D%E6%83%B3%E9%A3%9F%E5%A0%82/"/>
-    
-    
-      <category term="成长感悟" scheme="https://wpneu.github.io/tags/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何给自己科学制定英语挖坑目标</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E8%8B%B1%E8%AF%AD%E6%96%B0%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.html"/>
-    <id>https://wpneu.github.io/2017/08/12/英语新概念学习.html</id>
-    <published>2017-08-12T03:15:34.000Z</published>
-    <updated>2017-08-12T04:22:38.065Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="如何给自己科学制定英语挖坑目标"><a href="#如何给自己科学制定英语挖坑目标" class="headerlink" title="如何给自己科学制定英语挖坑目标"></a>如何给自己科学制定英语挖坑目标</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;如何给自己科学制定英语挖坑目标&quot;&gt;&lt;a href=&quot;#如何给自己科学制定英语挖坑目标&quot; class=&quot;headerlink&quot; title=&quot;如何给自己科学制定英语挖坑目标&quot;&gt;&lt;/a&gt;如何给自己科学制定英语挖坑目标&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a hr
-    
-    </summary>
-    
-      <category term="100天逆袭英语" scheme="https://wpneu.github.io/categories/100%E5%A4%A9%E9%80%86%E8%A2%AD%E8%8B%B1%E8%AF%AD/"/>
-    
-    
-      <category term="狂飙英语" scheme="https://wpneu.github.io/tags/%E7%8B%82%E9%A3%99%E8%8B%B1%E8%AF%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>读书笔记:如何读一本书</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.html"/>
-    <id>https://wpneu.github.io/2017/08/12/如何阅读一本书.html</id>
-    <published>2017-08-12T03:15:34.000Z</published>
-    <updated>2017-08-12T04:18:48.431Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="读书笔记-如何读一本书"><a href="#读书笔记-如何读一本书" class="headerlink" title="读书笔记:如何读一本书"></a>读书笔记:如何读一本书</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;读书笔记-如何读一本书&quot;&gt;&lt;a href=&quot;#读书笔记-如何读一本书&quot; class=&quot;headerlink&quot; title=&quot;读书笔记:如何读一本书&quot;&gt;&lt;/a&gt;读书笔记:如何读一本书&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
-    
-    </summary>
-    
-      <category term="读书笔记" scheme="https://wpneu.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="读书笔记" scheme="https://wpneu.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -162,9 +96,75 @@
   </entry>
   
   <entry>
+    <title>读书笔记:如何读一本书</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.html"/>
+    <id>https://wpneu.github.io/2017/08/12/如何阅读一本书.html</id>
+    <published>2017-08-12T03:15:34.000Z</published>
+    <updated>2017-08-12T04:18:48.431Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="读书笔记-如何读一本书"><a href="#读书笔记-如何读一本书" class="headerlink" title="读书笔记:如何读一本书"></a>读书笔记:如何读一本书</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;读书笔记-如何读一本书&quot;&gt;&lt;a href=&quot;#读书笔记-如何读一本书&quot; class=&quot;headerlink&quot; title=&quot;读书笔记:如何读一本书&quot;&gt;&lt;/a&gt;读书笔记:如何读一本书&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="https://wpneu.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="读书笔记" scheme="https://wpneu.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何给自己科学制定英语挖坑目标</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E8%8B%B1%E8%AF%AD%E6%96%B0%E6%A6%82%E5%BF%B5%E5%AD%A6%E4%B9%A0.html"/>
+    <id>https://wpneu.github.io/2017/08/12/英语新概念学习.html</id>
+    <published>2017-08-12T03:15:34.000Z</published>
+    <updated>2017-08-12T04:22:38.065Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="如何给自己科学制定英语挖坑目标"><a href="#如何给自己科学制定英语挖坑目标" class="headerlink" title="如何给自己科学制定英语挖坑目标"></a>如何给自己科学制定英语挖坑目标</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;如何给自己科学制定英语挖坑目标&quot;&gt;&lt;a href=&quot;#如何给自己科学制定英语挖坑目标&quot; class=&quot;headerlink&quot; title=&quot;如何给自己科学制定英语挖坑目标&quot;&gt;&lt;/a&gt;如何给自己科学制定英语挖坑目标&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a hr
+    
+    </summary>
+    
+      <category term="100天逆袭英语" scheme="https://wpneu.github.io/categories/100%E5%A4%A9%E9%80%86%E8%A2%AD%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+      <category term="狂飙英语" scheme="https://wpneu.github.io/tags/%E7%8B%82%E9%A3%99%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生永远没有太晚的开始</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/人生感悟.html</id>
+    <published>2017-08-12T03:15:34.000Z</published>
+    <updated>2017-08-12T04:17:02.285Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="人生永远没有太晚的开始"><a href="#人生永远没有太晚的开始" class="headerlink" title="人生永远没有太晚的开始"></a>人生永远没有太晚的开始</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;人生永远没有太晚的开始&quot;&gt;&lt;a href=&quot;#人生永远没有太晚的开始&quot; class=&quot;headerlink&quot; title=&quot;人生永远没有太晚的开始&quot;&gt;&lt;/a&gt;人生永远没有太晚的开始&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; cla
+    
+    </summary>
+    
+      <category term="思想食堂" scheme="https://wpneu.github.io/categories/%E6%80%9D%E6%83%B3%E9%A3%9F%E5%A0%82/"/>
+    
+    
+      <category term="成长感悟" scheme="https://wpneu.github.io/tags/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>KGDB调试内核</title>
-    <link href="https://wpneu.github.io/2017/08/12/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html"/>
-    <id>https://wpneu.github.io/2017/08/12/KGDB调试Linux内核.html</id>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/KGDB%E8%B0%83%E8%AF%95Linux%E5%86%85%E6%A0%B8.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/KGDB调试Linux内核.html</id>
     <published>2017-08-12T02:35:34.000Z</published>
     <updated>2017-08-12T05:12:42.237Z</updated>
     
@@ -207,8 +207,8 @@
   
   <entry>
     <title>内存管理</title>
-    <link href="https://wpneu.github.io/2017/08/12/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html"/>
-    <id>https://wpneu.github.io/2017/08/12/内存管理.html</id>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生/内存管理.html</id>
     <published>2017-08-12T02:15:34.000Z</published>
     <updated>2017-08-12T05:07:08.574Z</updated>
     
@@ -246,6 +246,28 @@
     
     
       <category term="成长感悟" scheme="https://wpneu.github.io/tags/%E6%88%90%E9%95%BF%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目学习法的基本理论</title>
+    <link href="https://wpneu.github.io/2017/08/12/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F%20-%20%E5%89%AF%E6%9C%AC.html"/>
+    <id>https://wpneu.github.io/2017/08/12/人生感悟 - 副本.html</id>
+    <published>2017-08-12T01:15:34.000Z</published>
+    <updated>2017-09-02T12:41:56.074Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="项目学习法的基本理论"><a href="#项目学习法的基本理论" class="headerlink" title="项目学习法的基本理论"></a>项目学习法的基本理论</h3><h4 id="这是个测试。"><a href="#这是个测试。" class="headerlink" title="这是个测试。"></a>这是个测试。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;项目学习法的基本理论&quot;&gt;&lt;a href=&quot;#项目学习法的基本理论&quot; class=&quot;headerlink&quot; title=&quot;项目学习法的基本理论&quot;&gt;&lt;/a&gt;项目学习法的基本理论&lt;/h3&gt;&lt;h4 id=&quot;这是个测试。&quot;&gt;&lt;a href=&quot;#这是个测试。&quot; class=&quot;
+    
+    </summary>
+    
+      <category term="项目学习论" scheme="https://wpneu.github.io/categories/%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E8%AE%BA/"/>
+    
+    
+      <category term="项目学习法" scheme="https://wpneu.github.io/tags/%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E6%B3%95/"/>
     
   </entry>
   
